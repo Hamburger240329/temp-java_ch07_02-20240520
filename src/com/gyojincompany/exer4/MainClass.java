@@ -10,6 +10,8 @@ public class MainClass {
 		
 		car = truck; // 업캐스팅 가능
 		
+		car.frontDrive();
+		
 		
 	}
 }
